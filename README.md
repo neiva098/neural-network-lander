@@ -10,4 +10,4 @@ Lander is the **first game** I produced in college, it was created using the **o
 
 Artificial neural networks, usually simply called neural networks, are computing systems vaguely inspired by the biological neural networks that constitute animal brains. An ANN is based on a collection of connected units or nodes called artificial neurons, which loosely model the neurons in a biological brain.
 
-In this project de logical is this file src\ia\redeNeural.c
+**In this project the logical is in this [file](https://github.com/neiva098/neural-network-lander/blob/main/src/ia/redeNeural.c)**
